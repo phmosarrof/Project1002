@@ -14,5 +14,6 @@ class Example3
       {
               Example3 myobj = new Example3();
               System.out.println("value of var is: "+myobj.getValue());
+              
       }
 }
