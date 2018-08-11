@@ -8,7 +8,7 @@ public class Inheritance { // parent class
 
 	public void display() {
 
-		System.out.println(" Method of Parent class");
+		System.out.println("# Method of Parent class");
 	}
 
 }
