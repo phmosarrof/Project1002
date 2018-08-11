@@ -7,7 +7,7 @@ public class ChildClass2 extends ChildClass {
 		ChildClass2 obj2 = new ChildClass2();
 		
 		System.out.println();
-		System.out.println(" The Value of B :"+obj2.b);
+		System.out.println(" The Value of B : "+obj2.b);
 		System.out.println();
 		obj2.display();
 
